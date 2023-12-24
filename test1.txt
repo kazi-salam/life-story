@@ -1,9 +1,9 @@
 Hi! My name is Kazi Abdus Salam. Welcome to my personal web site!. 
-www.webtechdbd.com interested to create moderate dinaymic and much more creative smart websites.
+www.webtechdbd.com interested to create moderate dinaymic and much more creative smart websites...
 1. Sience 1997 I Have been using Internet and sincee 1998 created my first personal web page with "Netscap Navigator Gold & with various graphics softwares and also working in the IT field with various aspects and positions.
 2. ERP software created first in Bangladesh which named was "Garment System" since 1999-2000 before Y2K with visual basic and run by oracle.
 3. Since 1976-84 with "Shawnirvor Bangladesh" perform country wide Total Village Development Programs and buidup "Shawnirvor Gram Sarkar" & credit programs for Rural Poor Peoples first in new-born Bangladesh as a "Shawnirvor Natonal Instructor", "Shawnirvor Dhaka Divisional Coordonator", "Shawnirvor Faridpur District Coordinator" and "Shawnirvor Rajoir Thana/Upozila Cordinator" by rotation.
 4. PIP (Package Imputs Program) first in Bangladesh for Grow more food scheme. Have done crop-insurance first in Bangladesh. As a "PIP Manager" I have received a check of Tk.9999.99 award money from Bangladesh Agriculture Ministry in 1976.
 5. From Nov'1989 to till date (part-time) with "BUILDWELL Business Promotion" an engineering consulting liasion office as a 'Head of IT' section at Dhaka, Bangladesh.
 logo alignment is centered.
-some text is added and changes from main branch.
+some new currection and added in feature branch.
